@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Nikhil Srinivas 👋
 
-<!--
-**nikhil-0420/nikhil-0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in AI & Data Science — Alliance University, Bengaluru (3rd Year)  
+🔍 Actively seeking internships in Data Science & Machine Learning  
+📄 Research published at ICCCNT 2026 — Road Accident Hotspot Analysis using XGBoost & SHAP  
+---
+🛠️ Skills
+**Languages:** Python · SQL  
+**ML & DS:** Scikit-learn · XGBoost · Pandas · NumPy · SHAP · SMOTE  
+**Visualization:** Power BI · Matplotlib · Seaborn · Folium  
+**Tools:** Git · GitHub · Google Colab · Jupyter Notebook  
+---
+📌 Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Road Accident Hotspot Analysis] | Predictive ML model for Bangalore accident hotspots with XAI | XGBoost · SHAP · Folium · SMOTE |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*(More projects coming soon)*
+---
+📫 Connect with me
+[LinkedIn] · nikhilsrinivas@email.com
