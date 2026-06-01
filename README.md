@@ -2,7 +2,7 @@ Hi, I'm Nikhil Srinivas 👋
 
 🎓 B.Tech in AI & Data Science — Alliance University, Bengaluru (3rd Year)  
 🔍 Actively seeking internships in Data Science & Machine Learning  
-📄 Research published at ICCCNT 2026 — Road Accident Hotspot Analysis using XGBoost & SHAP  
+📄 Research project: Road Accident Hotspot Analysis using XGBoost & SHAP (ICCCNT 2026 target) 
 ---
 🛠️ Skills
 **Languages:** Python · SQL  
