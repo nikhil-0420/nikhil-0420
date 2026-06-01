@@ -18,4 +18,4 @@ Hi, I'm Nikhil Srinivas 👋
 *(More projects coming soon)*
 ---
 📫 Connect with me
-[LinkedIn] · nikhilsrinivas@email.com
+[LinkedIn] · nikhil.guddanti@gamil.com
