@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Nikhil+%F0%9F%91%8B;AI+%26+Data+Science+Student;Building+ML+%2B+Full-Stack+Projects;Open+to+Internships+from+Aug+2026&font=Fira+Code&center=true&width=500&height=50&color=f97316&vCenter=true&size=22">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Nikhil+%F0%9F%91%8B;AI+%26+Data+Science+Student;Building+ML+%2B+Full-Stack+Projects;&font=Fira+Code&center=true&width=500&height=50&color=f97316&vCenter=true&size=22">
 
 </div>
 
@@ -10,7 +10,6 @@
 
 - B.Tech in **AI & Data Science**, Alliance University, Bengaluru — 3rd Year
 - Currently building **end-to-end ML projects** focused on real Bangalore urban data
-- 🔍 Actively seeking **Data Science / ML Engineering internships** (from Aug 2026)
 - 🎯 Long-term goal: **MS in Data Science** in the UK
 - 📄 Research: *Predictive Analysis of Road Accident Hotspots in Bangalore* — targeting ICCCNT 2026
 
