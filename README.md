@@ -59,7 +59,7 @@ End-to-end ML system predicting road accident hotspots across 52 Bangalore polic
 
 `Random Forest` `XGBoost` `SHAP` `SMOTE` `FastAPI` `React`
 
-🔗 [Live Demo](https://bangalore-accident-prediction-ozzfafkp3.vercel.app/) · 📊 [API Docs](https://bangalore-accident-prediction-api.onrender.com/docs)
+🔗 [Live Demo](https://bangalore-accident-prediction.vercel.app/) · 📊 [API Docs](https://bangalore-accident-prediction-api.onrender.com/docs)
 
 </td>
 </tr>
