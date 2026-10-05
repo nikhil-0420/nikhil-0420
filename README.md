@@ -1,101 +1,152 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Nikhil+%F0%9F%91%8B;AI+%26+Data+Science+Student;Shipping+ML+%26+GenAI+Products;From+Notebook+to+Production;Models%2C+APIs%2C+and+Full-Stack+ML;&font=Fira+Code&center=true&width=600&height=50&color=f97316&vCenter=true&size=22">
+<img src="./assets/profile-banner.gif" width="100%" alt="Nikhil — AI and Data Science. From data to deployed products." />
+
+### Building ML systems and AI agents—from data pipelines to deployed products.
+
+B.Tech · AI & Data Science · Alliance University, Bengaluru  
+**Open to ML / GenAI internships and engineering collaborations**
+
+[![Email](https://img.shields.io/badge/LET'S_TALK-F97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhil.guddanti@gmail.com)
+[![GitHub](https://img.shields.io/badge/EXPLORE_MY_CODE-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhil-0420?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-sinivas-guddanti/)
+
+[Projects](#projects) · [Toolkit](#toolkit) · [Research & Leadership](#research--leadership)
 
 </div>
 
 ---
 
-### 🎓 About Me
+I'm **Nikhil**, a third-year AI & Data Science student building across **machine learning, backend engineering, and full-stack applications**. My projects span financial reconciliation, adaptive learning, public-data analysis, and agent-driven business workflows.
 
-- B.Tech in **AI & Data Science**, Alliance University, Bengaluru — 3rd Year
-- Building **end-to-end ML/GenAI systems** — model to API to frontend
-- 🏆 Leading a 6-person team for **Smart India Hackathon 2026**
-- 🎯 Long-term goal: **MSc in Data Science/AI in Germany** (Saarland, TUHH, LMU) → ML Engineer / GenAI-LLM Engineer roles
-- 📄 Research: *Predictive Analysis of Road Accident Hotspots in Bangalore* — drafted as IEEE and Springer SN Computer Science manuscripts
+I care about what happens after the model responds: **evaluation, evidence, database integrity, and a usable interface**.
 
----
+## Projects
 
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Machine Learning & GenAI**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-orange?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/RAG_%2F_LLM_Agents-Llama_3.1-8A2BE2?style=for-the-badge)
-
-**Web & Deployment**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-**Visualization & Tools**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Folium](https://img.shields.io/badge/Folium-Geospatial-green?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-### 📌 Featured Projects
+Six projects across applied AI, data science, and full-stack engineering.
 
 <table>
 <tr>
-<td width="100%">
-
-**🏦 [Settl.ai](https://github.com/nikhil-0420/Settl-ai)**
-
-AI-powered financial reconciliation system, built for the Razorpay AI Buildathon (Finance Controller track). Core pipeline, Q&A agent, and full eval harness scoring 100% across all three metrics (n=68).
-
-`Python` `FastAPI` `React` `LLM Agents`
-
-🔗 [Live Demo](https://settl-ai.vercel.app/) · 📊 [API Docs](https://settl-ai.onrender.com/docs)
-
+<td width="50%" valign="top">
+<a href="https://settl-ai.vercel.app/"><img src="./assets/settl.svg" width="100%" alt="Settl.ai — conceptual project illustration" /></a>
+<h3>Settl.ai</h3>
+<p>Financial reconciliation with a processing pipeline, Q&A agent, and repeatable evaluation. Built for the <b>Razorpay AI Buildathon</b>.</p>
+<p><b>Evidence:</b> 68-case evaluation harness.</p>
+<p><sub>Python · FastAPI · React · LLM Agents</sub></p>
+<a href="https://settl-ai.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-F97316?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Live demo" /></a>
+<a href="https://github.com/nikhil-0420/Settl-ai"><img src="https://img.shields.io/badge/SOURCE_CODE-202C40?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Source code" /></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://programmingtutor-ai.vercel.app/"><img src="./assets/tutor.svg" width="100%" alt="Intelligent Programming Tutor — conceptual project illustration" /></a>
+<h3>Intelligent Programming Tutor</h3>
+<p>A <b>Planner, Assessor, and Tutor</b> work together with RAG and a four-parameter Bayesian Knowledge Tracing model.</p>
+<p><b>Evaluation:</b> 17 human raters, 340 ratings.</p>
+<p><sub>FastAPI · PostgreSQL · Llama 3.1 · RAG</sub></p>
+<a href="https://programmingtutor-ai.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-F97316?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Live demo" /></a>
+<a href="https://github.com/nikhil-0420/Intelligent-Personalized-Programming-Tutor"><img src="https://img.shields.io/badge/SOURCE_CODE-202C40?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Source code" /></a>
 </td>
 </tr>
 <tr>
-<td width="100%">
-
-**🎓 [Intelligent Personalized Programming Tutor](https://github.com/nikhil-0420/Intelligent-Personalized-Programming-Tutor)**
-
-Full-stack agentic RAG tutoring system with a multi-agent architecture (Curriculum Planner, Assessor, Tutor) and a 4-parameter Bayesian Knowledge Tracing skill model. Validated with a 17-rater human study (340 ratings) and an LLM-as-judge eval pipeline.
-
-`FastAPI` `PostgreSQL` `Llama 3.1` `RAG` `Multi-Agent`
-
-🔗 [Live Demo](https://programmingtutor-ai.vercel.app/) · 📊 [API Docs](https://intelligent-personalized-programming.onrender.com/docs)
-
+<td width="50%" valign="top">
+<a href="https://nidhi-trace.vercel.app/"><img src="./assets/nidhi.svg" width="100%" alt="NIDHI TRACE — conceptual project illustration" /></a>
+<h3>NIDHI TRACE</h3>
+<p>Statistical rules and Isolation Forest turn unusual MPLADS allocations and delays into explainable review signals.</p>
+<p><b>My role:</b> Backend development; teammate-built frontend.</p>
+<p><sub>Python · FastAPI · scikit-learn · Isolation Forest</sub></p>
+<a href="https://nidhi-trace.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-F97316?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Live demo" /></a>
+<a href="https://github.com/nikhil-0420/NidhiTrace"><img src="https://img.shields.io/badge/SOURCE_CODE-202C40?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Source code" /></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://what-a-bot-6ycf.onrender.com/"><img src="./assets/ember.svg" width="100%" alt="EmberGround — conceptual project illustration" /></a>
+<h3>EmberGround</h3>
+<p>Gemini-powered Telegram ordering and booking with real inventory, tenant isolation, and confirmation-based transactions.</p>
+<p><b>Team lead:</b> Core pipeline, auth, tenant integrity, bot linking, n8n, and integration.</p>
+<p><sub>Gemini · FastAPI · PostgreSQL · React</sub></p>
+<a href="https://what-a-bot-6ycf.onrender.com/"><img src="https://img.shields.io/badge/LIVE_DEMO-F97316?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Live demo" /></a>
+<a href="https://github.com/nikhil-0420/What-A-Bot"><img src="https://img.shields.io/badge/SOURCE_CODE-202C40?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Source code" /></a>
 </td>
 </tr>
 <tr>
-<td width="100%">
-
-**🚦 [Bangalore Accident Risk Predictor](https://github.com/nikhil-0420/bangalore-accident-prediction)**
-
-End-to-end ML system predicting road accident hotspots across 52 Bangalore police stations using 8 years of crash data. Dual-task model (regression + classification), SMOTE class balancing, SHAP explainability, deployed as a full-stack web app.
-
-`Random Forest` `XGBoost` `SHAP` `SMOTE` `FastAPI` `React`
-
-🔗 [Live Demo](https://bangalore-accident-prediction.vercel.app/) · 📊 [API Docs](https://bangalore-accident-prediction-api.onrender.com/docs)
-
+<td width="50%" valign="top">
+<a href="https://cite-guard-beige.vercel.app/"><img src="./assets/citeguard.svg" width="100%" alt="CiteGuard — conceptual project illustration" /></a>
+<h3>CiteGuard</h3>
+<p>Claim-level citation evidence, deterministic policy decisions, agent traces, and human review in one audit workspace.</p>
+<p><b>Frontend lead:</b> Report UI, demo, and evaluation page for Nuroen AgentForge.</p>
+<p><sub>React · Vite · FastAPI · Nuroen</sub></p>
+<a href="https://cite-guard-beige.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-F97316?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Live demo" /></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://bangalore-accident-prediction.vercel.app/"><img src="./assets/accident.svg" width="100%" alt="Bangalore Accident Risk Predictor — conceptual project illustration" /></a>
+<h3>Bangalore Accident Risk Predictor</h3>
+<p>An end-to-end road-risk system combining regression and classification with SMOTE and SHAP explanations.</p>
+<p><b>Dataset:</b> Eight years of crash data across 52 police stations.</p>
+<p><sub>XGBoost · Random Forest · SHAP · FastAPI</sub></p>
+<a href="https://bangalore-accident-prediction.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-F97316?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Live demo" /></a>
+<a href="https://github.com/nikhil-0420/bangalore-accident-prediction"><img src="https://img.shields.io/badge/SOURCE_CODE-202C40?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Source code" /></a>
 </td>
 </tr>
 </table>
 
-*Currently building an AI-powered smart traffic congestion prediction system, and open to ML/GenAI internship opportunities.*
+<details>
+<summary><b>Evaluation notes, project status & API links</b></summary>
 
-### 📫 Connect with Me
+- **Settl.ai:** The 68 cases describe the project's evaluation set, not a guarantee on unseen financial data. [API docs](https://settl-ai.onrender.com/docs).
+- **Programming Tutor:** 17 raters and 340 ratings describe the study size, not a measured improvement in learning outcomes. [API docs](https://intelligent-personalized-programming.onrender.com/docs).
+- **NIDHI TRACE:** The documented snapshot contains 198,116 registered works and 171,890 analyzed works. Anomaly flags support human review, not findings of fraud. [Backend service](https://nidhitrace-api.onrender.com).
+- **EmberGround:** The prototype documents 27 passing tests and live Telegram flows. No merchant pilot or live WhatsApp demonstration is claimed.
+- **CiteGuard:** Recorded mock reports are available. Live GitHub/Nuroen integration remains unproven in the supplied project documentation.
+- **Accident Risk Predictor:** [API docs](https://bangalore-accident-prediction-api.onrender.com/docs).
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhil.guddanti@gmail.com)
+The project covers are conceptual illustrations, not application screenshots.
+
+</details>
+
+## Toolkit
+
+<img src="./assets/toolkit.svg" width="100%" alt="Toolkit: Python, SQL, scikit-learn, XGBoost, Pandas, NumPy, FastAPI, PostgreSQL, React, Vite, Vercel, Render, Power BI, Matplotlib, Folium, Git, and Jupyter. Methods: RAG, multi-agent systems, tool calling, SHAP, Isolation Forest, and knowledge tracing." />
+
+<details>
+<summary><b>Toolkit in text</b></summary>
+
+- **Languages:** Python · SQL
+- **AI & machine learning:** scikit-learn · XGBoost · Pandas · NumPy
+- **Backend & data:** FastAPI · PostgreSQL
+- **Frontend & deployment:** React · Vite · Vercel · Render
+- **Analysis & tools:** Power BI · Matplotlib · Folium · Git · Jupyter
+- **Methods:** RAG · Multi-agent systems · Tool calling · SHAP · SMOTE · Isolation Forest · Bayesian Knowledge Tracing
+- **Models used in projects:** Llama 3.1 · Gemini
+
+</details>
+
+## Research & Leadership
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/research.svg" width="100%" alt="Research in progress: Bangalore road accident hotspots; IEEE and Springer manuscript drafts." />
+<p><b>Predictive Analysis of Road Accident Hotspots in Bangalore</b></p>
+<p>Research connected to the accident-risk project. Manuscripts drafted in IEEE and Springer SN Computer Science formats; no publication claimed.</p>
+</td>
+<td width="50%" valign="top">
+<img src="./assets/leadership.svg" width="100%" alt="Engineering leadership: five-person EmberGround team lead and CiteGuard frontend lead." />
+<p><b>From individual components to integrated systems</b></p>
+<p>Led EmberGround's five-person team, contributing to the core backend pipeline and integration. Frontend lead for CiteGuard at Nuroen AgentForge.</p>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### Have a problem worth building for?
+
+I'm open to **ML / GenAI internships**, applied AI projects, and engineering collaborations.
+
+[![Email](https://img.shields.io/badge/EMAIL-F97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhil.guddanti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-sinivas-guddanti/)
+[![GitHub](https://img.shields.io/badge/GITHUB-202C40?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhil-0420)
+
+*Models. APIs. Interfaces. Evidence that they work.*
+
+</div>
