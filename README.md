@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.gif" width="100%" alt="Nikhil — AI and Data Science. From data to deployed products." />
+<img src="./assets/02-animated-terminal.gif" width="100%" alt="Nikhil — Building ML systems, designing AI agents, and shipping full-stack products." />
 
 ### Building ML systems and AI agents—from data pipelines to deployed products.
 
