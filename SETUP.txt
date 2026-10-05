@@ -1,0 +1,14 @@
+GITHUB PROFILE SETUP
+
+1. Open your GitHub profile repository (normally nikhil-0420/nikhil-0420).
+2. Upload README.md and the entire assets folder into the repository root.
+3. Preserve the assets folder name and all image filenames.
+4. Preview README.md, then commit.
+
+The README uses assets/profile-banner.gif for animation.
+assets/profile-banner.svg is the editable animated SVG source.
+Use assets/profile-banner-static.svg for a still version.
+Project covers are conceptual illustrations, not app screenshots.
+CiteGuard has a demo button; its source-code link was not supplied.
+Other existing links were retained as provided.
+The previews folder is optional and does not need to be uploaded.
